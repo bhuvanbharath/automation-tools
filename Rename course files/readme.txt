@@ -1,0 +1,1 @@
+This tool is used to automate the renaming of courses downloaded from the internet.

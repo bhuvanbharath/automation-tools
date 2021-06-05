@@ -1,0 +1,71 @@
+Advanced programming with C++
+
+1. Classes and Objects
+Defining a class
+Data members
+Function members
+Constructors and destructors
+Explicit constructors
+Namespaces
+Self-referencing pointer
+Operator overloads
+Non-member operators
+Conversion operators
+Increment and decrement operators
+Allocating object memory
+Functors
+Example numword
+
+2. Class Inheritance
+Overview of inheritance(In progress)
+Simple inheritance
+Accessing the base class
+Friendship
+Multiple inheritance
+Polymorphism
+
+3. Smart Pointers
+Why smart pointers(Viewed)
+Unique pointer
+Shared pointer
+Weak pointer
+Using a custom deleter
+Choosing a smart pointer
+
+4. Move Semantics
+What is move semantics
+Understanding lvalues and rvalues
+Using std-move
+The move constructor
+The move assignment operator
+The copy-and-swap idiom
+Rule of five
+
+5. Lambda Functions
+Lambda syntax
+Captures
+Polymorphic lambdas
+
+6. The C Preprocessor
+About the preprocessor
+Macros as constants
+Including files
+Conditional compilation
+Defining macros
+Including files only once
+
+7. Unit Tests
+The importance of unit tests
+A unit test library
+Why non-STL strings
+Overview of BWString
+Constructors
+Memory management
+Operators
+Utility methods
+Find and replace
+Splitting strings
+
+8. Custom String Library
+Using the BWString library
+Next steps
