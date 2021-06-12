@@ -1,0 +1,9 @@
+requests
+smtplib
+socket
+schedule
+time
+beautifulsoup4
+pyTelegramBotAPI
+validators
+re
