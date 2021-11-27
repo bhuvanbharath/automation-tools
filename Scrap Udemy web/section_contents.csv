@@ -1,0 +1,275 @@
+Section 1. What is Ethereum?
+Section 2. Smart Contracts with Solidity
+Section 3. Advanced Smart Contracts
+Section 4. Building Interactive Front-Ends
+Section 5. Real Projects with Ethereum
+Section 6. Ethereum Project Infrastructure
+Section 7. Advanced Multi-Page Front-Ends
+Section 8. Appendix: Basic React
+Section 9. Extras
+ 
+Introduction
+Course Resources
+A Short History Lesson
+Link to Original Bitcoin White Paper
+What is Ethereum?
+Interfacing with Ethereum Networks
+Updated Metamask Setup for new UI
+Metamask Setup
+Ethereum Accounts
+A Note About the Faucet
+Receiving Ether
+What's a Transaction?
+Why'd We Wait?
+A Quick Note
+Basic Blockchains
+Block Time
+Smart Contracts
+The Solidity Programming Language
+Updated Remix Instructions for new UI - Do Not Skip
+Our First Contract
+Contract Structure
+Function Declarations
+Deploying Contract in New Remix UI
+Testing with Remix
+Redeploying Contracts
+Behind the Scenes of Deployment
+More on Running Functions Than You Want to Know
+Wei vs Ether
+Gas and Transactions
+Mnemonic Phrases
+Getting More Test Ether
+Rinkeby Not Working?
+Getting Ether From the Official Rinkeby Faucet
+Installing Node.js and npm
+Contract Deployment
+Completed Boilerplate
+Boilerplate Requirements
+Project File Walkthrough
+Syntax Highlighters
+Compiling Solidity
+Invalid asm.js or Constructor Deprecation Warning
+The Compile Script
+Testing Architecture
+Installing Modules
+Web3 Versioning
+Web3 Providers
+Testing with Mocha
+Mocha Structure
+Fetching Accounts from Ganache
+Refactor to Async/Await
+Deployment with Web3
+Deployed Inbox Overview
+Asserting Deployment
+Verifying the Initial Message
+Testing Message Updates
+Deployment with Infura
+Infura Signup
+Super Important Note about Seed / Recovery Phrase Security
+Wallet Provider Setup
+Deployment to Rinkeby
+Observing Deployment on Etherscan
+Remix Permissions and Metamask
+Deployed Contracts in Remix
+Project Review
+Updating Your Project to Solc v0.8.9
+The Lottery Contract
+Lottery Design
+Reminder on Updated Remix UI
+Basic Solidity Types
+Starting the Lottery Contract
+The Message Global Variable
+Overview of Arrays
+Overview of Mappings and Structs
+Big Solidity Gotcha
+Entering the Lottery
+Validation with Require Statements
+The Remix Debugger
+Pseudo Random Number Generator
+Selecting a Winner
+Sending Ether from Contracts
+Resetting Contract State
+Requiring Managers
+Function Modifiers
+Returning Players Array
+Contract Review
+Completed Boilerplate - Do Not Skip
+New Test Setup
+Test Project Updates
+Test Helper Review
+Asserting Deployment
+Entering the Lottery
+Asserting Multiple Players
+Try-Catch Assertions
+Testing Function Modifiers
+End to End Test
+Ethereum App Architecture
+Boilerplate and React App Updates - Do Not Skip
+Application Overview
+Getting Started with Create-React-App
+Multiple Web3 Instances
+Required Updated for Web3 and Metamask Permissions
+Web3 Setup
+Deploying the Lottery Contract
+Local Contract Instances
+Rendering Contract Data
+Instance Properties
+Accessing More Properties
+The 'Enter' Form
+Form Setup
+Entering the Lottery
+Picking a Winner
+Project Review
+Solving Real Problems with Contracts
+Fixing Kickstarter's Issues
+Campaign Contract Design
+Reminder on Updated Remix UI
+Campaign Constructor
+Contributing to the Campaign
+A Quick Test
+The Request Struct
+More on Function Modifiers
+Creating Struct Instances
+Instance Creation Syntax
+Storage and Memory
+More on Storage vs Memory
+Voting System Requirements
+The Wrong Voting System
+Issues with Arrays
+Mappings vs Arrays
+Basics of Mappings
+Refactoring to Mappings
+Refactoring Request Stucts
+More on Struct Initialization
+Approving a Request
+Testing Request Approvals
+Finalizing a Request
+Last Remix Test
+Thinking about Deployment
+Solution to Deployment
+Adding a Campaign Factory
+Testing the Factory
+Completed Boilerplate - Do Not Skip
+Project Setup
+Directory Structure
+A Better Compile Script
+Single Run Compilation
+More on Compile
+Test File Setup
+Creating Campaign Instances
+Testing Warmup
+Accessing Mappings
+Requiring Minimum Contributions
+Array Getters
+One End to End Test
+Deployment
+Refactoring Deployment
+App Mockups
+CRA vs Next
+Next's Pages Architecture
+Basics of Next Routing
+Root Routes
+Required Web3 Update -  Do Not Skip
+CampaignFactory Instance
+Reminder on Updated Remix UI
+Getting a Test Campaign
+Fetching Deployed Campaigns
+"Why Next.js, Anyways?"
+Required Web3 Update for Conditional
+Server vs Client Web3 Instances
+GetInitialProps Function
+Semantic UI React
+Card Group Setup
+Rendering Card Groups
+Adding CSS
+Adding a Button
+The Need for a Layout
+Suggestion Regarding a Default Export Warning
+The Layout Component
+Assembling a Header
+Constraining Content Width
+Two Column Layout
+Nested Routing
+Final CSS Fix
+Form Creation
+Input Change Handlers
+Form Submittal
+Testing Submittal
+Form Error Handling
+Button Spinners
+Important Note About Installing next-routes
+Routing Issues
+Next Routes Setup
+Automatic Navigation
+Header Navigation
+Routing to Campaigns
+Restarting the Server
+Route Mappings
+Planning CampaignShow
+Redeploying CampaignFactory
+CampaignShow's GetInitialProps
+Accessing a Campaign
+Summary Translation Layer
+Custom Card Groups
+One Card Per Property
+The Contribute Form
+Grid Layouts
+Form State
+Communicating the Campaign Address
+Making a Contribution
+Refreshing Contract Data
+Spinners and Error Handlers
+Listing Requests
+Grids vs Columns
+More Routing!
+Request Creation Form
+Creating a Request
+Form Polish
+Creating a Request
+Requests One by One
+Fancy Javascript
+Small Typo!
+Rendering a Table
+Request Row Component
+Request Row Content
+Approvers Count Cell
+Approving a Request
+Finalizing Requests
+Testing Finalization
+Row Status Styling
+Finishing Requests Index
+Wrapup
+A Note on This Section
+Purpose of Boilerplate Projects
+Environment Setup
+Project Setup
+JSX
+More on JSX
+ES6 Import Statements
+ReactDOM vs React
+Component Instances
+Render Targets
+Component Structure
+Youtube Search API Signup
+Export Statements
+Class Based Components
+Handling User Events
+Introduction to State
+State Continued
+Controlled Components
+Breather and Review
+Youtube Search Response
+Refactoring Functional Components to Class Components
+Props
+Building Lists with Map
+List Item Keys
+Video List Items
+Detail Component and Template Strings
+Handling Null Props
+Video Selection
+Styling with CSS
+Searching for Videos
+Throttling Search Term Input
+React Wrapup
+Vue Flavored Version
+Bonus!
