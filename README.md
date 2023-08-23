@@ -1,2 +1,2 @@
 # automation-tools
-A repository which contains automation tools those are build using Python
+A repository that contains quick automation tools that are built using Python.
